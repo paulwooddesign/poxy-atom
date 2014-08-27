@@ -1,7 +1,7 @@
 {
   "name": "poxy",
   "main": "./lib/poxy",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Poxy welcome screen when Atom is opened for the first time",
   "repository": "https://github.com/paulwooddesign/poxy-atom",
   "license": "MIT",
